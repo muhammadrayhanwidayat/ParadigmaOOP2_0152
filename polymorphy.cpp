@@ -2,6 +2,11 @@
 using namespace std;
 
 
-int main(){
+class seseorang {
     
+
+};
+
+int main(){
+
 }
