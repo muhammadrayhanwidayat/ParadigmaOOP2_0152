@@ -15,7 +15,16 @@ class seseorang {
 
 };
 
-
+class joko : public seseorang 
+{
+public:
+    // Deklarasi
+    void pesan()
+    {
+        // Implementasi
+        cout << "Pesan dari joko" << endl;
+    }
+};
 
 int main(){
 
